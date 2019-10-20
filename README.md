@@ -1,2 +1,2 @@
 # Graphs
-Implementacion de candados para solucionar el problema de la rueda
+Implementacion de Grafos para solucionar el problema de la ruleta
