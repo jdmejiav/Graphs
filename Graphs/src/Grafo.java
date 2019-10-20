@@ -5,9 +5,10 @@
 public class Grafo{
 
 
-	public Grafo(int forbiddenPositions,int initialPosition){
-
-
-
+	private int initialPostion;
+	private int []forbidenPositions;
+	public Grafo(int forbiddenPositions[],int initialPosition){
+		this.initialPosition=initialPosition;
+		this.forbiddenPositions=forbiddenPositions;
 	}
 }

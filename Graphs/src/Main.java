@@ -25,5 +25,9 @@ public class Main {
 		}
 		return retorno;
 	}
+	private String forbiddenPositions(){
+		
+
+	}
 }
 
